@@ -5,6 +5,7 @@ Live interactive [dashboard](https://github.com/DDDDNNNNNThanh/Accenture-Data-An
 
 I worked on this project by following the Accenture virtual Experience on power BI at Forage [Link here](https://www.theforage.com/fast-track/data-analytics-virtual-experience)
 
+Link to Task 3 (PowerPoint) and Task 4 (Record): [Link here](https://drive.google.com/drive/folders/1agevpFlw9_dKJRx8lvFvVopb4RmMusMJ?usp=sharing)
 ## Project Overview and Business Problem
 
 I participated in the open access Accenture Data Analytics Virtual Experience Program with Forage. Where I worked as a data analyst to help an organization named “Social Buzz” to analyze their data and help them understand how they can leverage on their massive amount of data.
